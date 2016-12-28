@@ -4,7 +4,7 @@
 #include <ArduinoOTA.h>
 
 const char* ssid = "your_ssid_here";
-const char* password = "WQSUBEPQ";
+const char* password = "your_password_here";
 
 void setup() {
   Serial.begin(115200);
